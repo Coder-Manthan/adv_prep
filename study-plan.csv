@@ -1,331 +1,332 @@
-TYPE,CONTENT,DATE,PRIORITY,INDENT
-section,Day 1,2025-04-09,,
-task,Mathematics: Complex Numbers (Lecture 1),2025-04-09,,1
-task,Mathematics: Complex Numbers (Lecture 2),2025-04-09,,1
-task,Mathematics: Complex Numbers (Lecture 3),2025-04-09,,1
-task,Physics: Ray Optics (Lecture 1),2025-04-09,,1
-task,Physics: Ray Optics (Lecture 2),2025-04-09,,1
-task,Physics: Ray Optics (Lecture 3),2025-04-09,,1
-task,Chemistry: Thermodynamics (Lecture 1),2025-04-09,,1
-task,Chemistry: Thermodynamics (Lecture 2),2025-04-09,,1
-task,Chemistry: Thermodynamics (Lecture 3),2025-04-09,,1
-task,Chemistry: Thermodynamics (Lecture 4),2025-04-09,,1
-section,Day 2,2025-04-10,,
-task,Mathematics: Complex Numbers (Lecture 4),2025-04-10,,1
-task,Mathematics: Complex Numbers (Lecture 5),2025-04-10,,1
-task,Mathematics: Complex Numbers (Lecture 6),2025-04-10,,1
-task,Physics: Ray Optics (Lecture 4),2025-04-10,,1
-task,Physics: Ray Optics (Lecture 5),2025-04-10,,1
-task,Physics: Ray Optics (Lecture 6),2025-04-10,,1
-task,Chemistry: Chemical Bonding (Lecture 1),2025-04-10,,1
-task,Chemistry: Chemical Bonding (Lecture 2),2025-04-10,,1
-task,Chemistry: Chemical Bonding (Lecture 3),2025-04-10,,1
-task,Chemistry: Chemical Bonding (Lecture 4),2025-04-10,,1
-section,Day 3,2025-04-11,,
-task,Mathematics: Complex Numbers (Lecture 7),2025-04-11,,1
-task,Mathematics: Complex Numbers (Lecture 8),2025-04-11,,1
-task,Mathematics: Complex Numbers (Lecture 9),2025-04-11,,1
-task,Physics: Ray Optics (Lecture 7),2025-04-11,,1
-task,Physics: Ray Optics (Lecture 8),2025-04-11,,1
-task,Physics: Ray Optics (Lecture 9),2025-04-11,,1
-task,Chemistry: Chemical Bonding (Lecture 5),2025-04-11,,1
-task,Chemistry: Chemical Bonding (Lecture 6),2025-04-11,,1
-task,Chemistry: Chemical Bonding (Lecture 7),2025-04-11,,1
-task,Chemistry: Chemical Bonding (Lecture 8),2025-04-11,,1
-section,Day 4,2025-04-12,,
-task,Mathematics: Complex Numbers (Lecture 10),2025-04-12,,1
-task,Mathematics: Complex Numbers (Lecture 11),2025-04-12,,1
-task,Mathematics: Complex Numbers (Lecture 12),2025-04-12,,1
-task,Mathematics: Complex Numbers (Lecture 13),2025-04-12,,1
-task,Physics: Ray Optics (Lecture 10),2025-04-12,,1
-task,Physics: Ray Optics (Lecture 11),2025-04-12,,1
-task,Physics: Ray Optics (Lecture 12),2025-04-12,,1
-task,Chemistry: Chemical Bonding (Lecture 9),2025-04-12,,1
-task,Chemistry: Chemical Bonding (Lecture 10),2025-04-12,,1
-task,Chemistry: Chemical Bonding (Lecture 11),2025-04-12,,1
-section,Day 5,2025-04-13,,
-task,Mathematics: Probability (Lecture 1),2025-04-13,,1
-task,Mathematics: Probability (Lecture 2),2025-04-13,,1
-task,Mathematics: Probability (Lecture 3),2025-04-13,,1
-task,Physics: Ray Optics (Lecture 13),2025-04-13,,1
-task,Physics: Ray Optics (Lecture 14),2025-04-13,,1
-task,Physics: Ray Optics (Lecture 15),2025-04-13,,1
-task,Chemistry: Chemical Bonding (Lecture 12),2025-04-13,,1
-task,Chemistry: Chemical Bonding (Lecture 13),2025-04-13,,1
-task,Chemistry: Chemical Bonding (Lecture 14),2025-04-13,,1
-task,Chemistry: Chemical Bonding (Lecture 15),2025-04-13,,1
-section,Day 6,2025-04-14,,
-task,Mathematics: Probability (Lecture 4),2025-04-14,,1
-task,Mathematics: Probability (Lecture 5),2025-04-14,,1
-task,Mathematics: Probability (Lecture 6),2025-04-14,,1
-task,Physics: Fluids (Lecture 1),2025-04-14,,1
-task,Physics: Fluids (Lecture 2),2025-04-14,,1
-task,Physics: Fluids (Lecture 3),2025-04-14,,1
-task,Chemistry: Chemical Bonding (Lecture 16),2025-04-14,,1
-task,Chemistry: Chemical Bonding (Lecture 17),2025-04-14,,1
-task,Chemistry: Chemical Bonding (Lecture 18),2025-04-14,,1
-task,Chemistry: Chemical Bonding (Lecture 19),2025-04-14,,1
-section,Day 7,2025-04-15,,
-task,Mathematics: Probability (Lecture 7),2025-04-15,,1
-task,Mathematics: Probability (Lecture 8),2025-04-15,,1
-task,Mathematics: Probability (Lecture 9),2025-04-15,,1
-task,Mathematics: Probability (Lecture 10),2025-04-15,,1
-task,Physics: Fluids (Lecture 4),2025-04-15,,1
-task,Physics: Fluids (Lecture 5),2025-04-15,,1
-task,Physics: Fluids (Lecture 6),2025-04-15,,1
-task,Chemistry: Chemical Bonding (Lecture 20),2025-04-15,,1
-task,Chemistry: Chemical Bonding (Lecture 21),2025-04-15,,1
-task,Chemistry: Chemical Bonding (Lecture 22),2025-04-15,,1
-section,Day 8,2025-04-16,,
-task,Mathematics: Conic Sections (Lecture 1),2025-04-16,,1
-task,Mathematics: Conic Sections (Lecture 2),2025-04-16,,1
-task,Mathematics: Conic Sections (Lecture 3),2025-04-16,,1
-task,Physics: Fluids (Lecture 7),2025-04-16,,1
-task,Physics: Fluids (Lecture 8),2025-04-16,,1
-task,Physics: Fluids (Lecture 9),2025-04-16,,1
-task,Physics: Fluids (Lecture 10),2025-04-16,,1
-task,Chemistry: Chemical Bonding (Lecture 23),2025-04-16,,1
-task,Chemistry: Chemical Bonding (Lecture 24),2025-04-16,,1
-task,Chemistry: Chemical Bonding (Lecture 25),2025-04-16,,1
-section,Day 9,2025-04-17,,
-task,Mathematics: Conic Sections (Lecture 4),2025-04-17,,1
-task,Mathematics: Conic Sections (Lecture 5),2025-04-17,,1
-task,Mathematics: Conic Sections (Lecture 6),2025-04-17,,1
-task,Physics: Modern Physics (Lecture 1),2025-04-17,,1
-task,Physics: Modern Physics (Lecture 2),2025-04-17,,1
-task,Physics: Modern Physics (Lecture 3),2025-04-17,,1
-task,Chemistry: Chemical Bonding (Lecture 26),2025-04-17,,1
-task,Chemistry: Chemical Bonding (Lecture 27),2025-04-17,,1
-task,Chemistry: Chemical Bonding (Lecture 28),2025-04-17,,1
-task,Chemistry: Chemical Bonding (Lecture 29),2025-04-17,,1
-section,Day 10,2025-04-18,,
-task,Mathematics: Conic Sections (Lecture 7),2025-04-18,,1
-task,Mathematics: Conic Sections (Lecture 8),2025-04-18,,1
-task,Mathematics: Conic Sections (Lecture 9),2025-04-18,,1
-task,Physics: Modern Physics (Lecture 4),2025-04-18,,1
-task,Physics: Modern Physics (Lecture 5),2025-04-18,,1
-task,Physics: Modern Physics (Lecture 6),2025-04-18,,1
-task,Chemistry: Reaction Mechanisms (Lecture 1),2025-04-18,,1
-task,Chemistry: Reaction Mechanisms (Lecture 2),2025-04-18,,1
-task,Chemistry: Reaction Mechanisms (Lecture 3),2025-04-18,,1
-task,Chemistry: Reaction Mechanisms (Lecture 4),2025-04-18,,1
-section,Day 11,2025-04-19,,
-task,Mathematics: Conic Sections (Lecture 10),2025-04-19,,1
-task,Mathematics: Conic Sections (Lecture 11),2025-04-19,,1
-task,Mathematics: Conic Sections (Lecture 12),2025-04-19,,1
-task,Physics: Modern Physics (Lecture 7),2025-04-19,,1
-task,Physics: Modern Physics (Lecture 8),2025-04-19,,1
-task,Physics: Modern Physics (Lecture 9),2025-04-19,,1
-task,Chemistry: Reaction Mechanisms (Lecture 5),2025-04-19,,1
-task,Chemistry: Reaction Mechanisms (Lecture 6),2025-04-19,,1
-task,Chemistry: Reaction Mechanisms (Lecture 7),2025-04-19,,1
-task,Chemistry: Reaction Mechanisms (Lecture 8),2025-04-19,,1
-section,Day 12,2025-04-20,,
-task,Mathematics: Conic Sections (Lecture 13),2025-04-20,,1
-task,Mathematics: Conic Sections (Lecture 14),2025-04-20,,1
-task,Mathematics: Conic Sections (Lecture 15),2025-04-20,,1
-task,Physics: Modern Physics (Lecture 10),2025-04-20,,1
-task,Physics: Modern Physics (Lecture 11),2025-04-20,,1
-task,Physics: Modern Physics (Lecture 12),2025-04-20,,1
-task,Chemistry: Reaction Mechanisms (Lecture 9),2025-04-20,,1
-task,Chemistry: Reaction Mechanisms (Lecture 10),2025-04-20,,1
-task,Chemistry: Reaction Mechanisms (Lecture 11),2025-04-20,,1
-task,Chemistry: Reaction Mechanisms (Lecture 12),2025-04-20,,1
-section,Day 13,2025-04-21,,
-task,Mathematics: Conic Sections (Lecture 16),2025-04-21,,1
-task,Mathematics: Conic Sections (Lecture 17),2025-04-21,,1
-task,Mathematics: Conic Sections (Lecture 18),2025-04-21,,1
-task,Physics: Wave Optics (Lecture 1),2025-04-21,,1
-task,Physics: Wave Optics (Lecture 2),2025-04-21,,1
-task,Physics: Wave Optics (Lecture 3),2025-04-21,,1
-task,Chemistry: Reaction Mechanisms (Lecture 13),2025-04-21,,1
-task,Chemistry: Reaction Mechanisms (Lecture 14),2025-04-21,,1
-task,Chemistry: Reaction Mechanisms (Lecture 15),2025-04-21,,1
-task,Chemistry: Reaction Mechanisms (Lecture 16),2025-04-21,,1
-section,Day 14,2025-04-22,,
-task,Mathematics: Conic Sections (Lecture 19),2025-04-22,,1
-task,Mathematics: Conic Sections (Lecture 20),2025-04-22,,1
-task,Mathematics: Conic Sections (Lecture 21),2025-04-22,,1
-task,Physics: Wave Optics (Lecture 4),2025-04-22,,1
-task,Physics: Wave Optics (Lecture 5),2025-04-22,,1
-task,Physics: Wave Optics (Lecture 6),2025-04-22,,1
-task,Chemistry: Reaction Mechanisms (Lecture 17),2025-04-22,,1
-task,Chemistry: Reaction Mechanisms (Lecture 18),2025-04-22,,1
-task,Chemistry: Reaction Mechanisms (Lecture 19),2025-04-22,,1
-task,Chemistry: Reaction Mechanisms (Lecture 20),2025-04-22,,1
-section,Day 15,2025-04-23,,
-task,Mathematics: Conic Sections (Lecture 22),2025-04-23,,1
-task,Mathematics: Conic Sections (Lecture 23),2025-04-23,,1
-task,Mathematics: Conic Sections (Lecture 24),2025-04-23,,1
-task,Physics: Wave Optics (Lecture 7),2025-04-23,,1
-task,Physics: Wave Optics (Lecture 8),2025-04-23,,1
-task,Physics: Wave Optics (Lecture 9),2025-04-23,,1
-task,Chemistry: Reaction Mechanisms (Lecture 21),2025-04-23,,1
-task,Chemistry: Reaction Mechanisms (Lecture 22),2025-04-23,,1
-task,Chemistry: Reaction Mechanisms (Lecture 23),2025-04-23,,1
-task,Chemistry: Reaction Mechanisms (Lecture 24),2025-04-23,,1
-section,Day 16,2025-04-24,,
-task,Mathematics: Conic Sections (Lecture 25),2025-04-24,,1
-task,Mathematics: Conic Sections (Lecture 26),2025-04-24,,1
-task,Mathematics: Statistics (Lecture 1),2025-04-24,,1
-task,Physics: Waves and Sound (Lecture 1),2025-04-24,,1
-task,Physics: Waves and Sound (Lecture 2),2025-04-24,,1
-task,Physics: Waves and Sound (Lecture 3),2025-04-24,,1
-task,Chemistry: Reaction Mechanisms (Lecture 25),2025-04-24,,1
-task,Chemistry: Reaction Mechanisms (Lecture 26),2025-04-24,,1
-task,Chemistry: Reaction Mechanisms (Lecture 27),2025-04-24,,1
-task,Chemistry: Reaction Mechanisms (Lecture 28),2025-04-24,,1
-section,Day 17,2025-04-25,,
-task,Mathematics: Statistics (Lecture 2),2025-04-25,,1
-task,Mathematics: Statistics (Lecture 3),2025-04-25,,1
-task,Mathematics: Integration (Lecture 1),2025-04-25,,1
-task,Physics: Waves and Sound (Lecture 4),2025-04-25,,1
-task,Physics: Waves and Sound (Lecture 5),2025-04-25,,1
-task,Physics: Waves and Sound (Lecture 6),2025-04-25,,1
-task,Chemistry: Reaction Mechanisms (Lecture 29),2025-04-25,,1
-task,Chemistry: Reaction Mechanisms (Lecture 30),2025-04-25,,1
-task,Chemistry: Reaction Mechanisms (Lecture 31),2025-04-25,,1
-task,Chemistry: Reaction Mechanisms (Lecture 32),2025-04-25,,1
-section,Day 18,2025-04-26,,
-task,Mathematics: Integration (Lecture 2),2025-04-26,,1
-task,Mathematics: Integration (Lecture 3),2025-04-26,,1
-task,Mathematics: Integration (Lecture 4),2025-04-26,,1
-task,Physics: Waves and Sound (Lecture 7),2025-04-26,,1
-task,Physics: Waves and Sound (Lecture 8),2025-04-26,,1
-task,Physics: Waves and Sound (Lecture 9),2025-04-26,,1
-task,Chemistry: Reaction Mechanisms (Lecture 33),2025-04-26,,1
-task,Chemistry: Reaction Mechanisms (Lecture 34),2025-04-26,,1
-task,Chemistry: Ionic Equilibrium (Lecture 1),2025-04-26,,1
-task,Chemistry: Ionic Equilibrium (Lecture 2),2025-04-26,,1
-section,Day 19,2025-04-27,,
-task,Mathematics: Integration (Lecture 5),2025-04-27,,1
-task,Mathematics: Integration (Lecture 6),2025-04-27,,1
-task,Mathematics: Integration (Lecture 7),2025-04-27,,1
-task,Physics: Thermal Properties of Matter (Lecture 1),2025-04-27,,1
-task,Physics: Thermal Properties of Matter (Lecture 2),2025-04-27,,1
-task,Physics: Thermal Properties of Matter (Lecture 3),2025-04-27,,1
-task,Chemistry: Ionic Equilibrium (Lecture 3),2025-04-27,,1
-task,Chemistry: Ionic Equilibrium (Lecture 4),2025-04-27,,1
-task,Chemistry: Ionic Equilibrium (Lecture 5),2025-04-27,,1
-task,Chemistry: Ionic Equilibrium (Lecture 6),2025-04-27,,1
-section,Day 20,2025-04-28,,
-task,Mathematics: Integration (Lecture 8),2025-04-28,,1
-task,Mathematics: Integration (Lecture 9),2025-04-28,,1
-task,Mathematics: Integration (Lecture 10),2025-04-28,,1
-task,Physics: Thermal Properties of Matter (Lecture 4),2025-04-28,,1
-task,Physics: Thermal Properties of Matter (Lecture 5),2025-04-28,,1
-task,Physics: Thermal Properties of Matter (Lecture 6),2025-04-28,,1
-task,Chemistry: Ionic Equilibrium (Lecture 7),2025-04-28,,1
-task,Chemistry: Ionic Equilibrium (Lecture 8),2025-04-28,,1
-task,Chemistry: Ionic Equilibrium (Lecture 9),2025-04-28,,1
-task,Chemistry: Ionic Equilibrium (Lecture 10),2025-04-28,,1
-section,Day 21,2025-04-29,,
-task,Mathematics: Integration (Lecture 11),2025-04-29,,1
-task,Mathematics: Integration (Lecture 12),2025-04-29,,1
-task,Mathematics: Integration (Lecture 13),2025-04-29,,1
-task,Physics: Thermal Properties of Matter (Lecture 7),2025-04-29,,1
-task,Physics: Thermal Properties of Matter (Lecture 8),2025-04-29,,1
-task,Physics: Thermal Properties of Matter (Lecture 9),2025-04-29,,1
-task,Chemistry: Ionic Equilibrium (Lecture 11),2025-04-29,,1
-task,Chemistry: Ionic Equilibrium (Lecture 12),2025-04-29,,1
-task,Chemistry: Ionic Equilibrium (Lecture 13),2025-04-29,,1
-task,Chemistry: Ionic Equilibrium (Lecture 14),2025-04-29,,1
-section,Day 22,2025-04-30,,
-task,Mathematics: Integration (Lecture 14),2025-04-30,,1
-task,Mathematics: Integration (Lecture 15),2025-04-30,,1
-task,Mathematics: Integration (Lecture 16),2025-04-30,,1
-task,Chemistry: Ionic Equilibrium (Lecture 15),2025-04-30,,1
-task,Chemistry: Ionic Equilibrium (Lecture 16),2025-04-30,,1
-task,Chemistry: Ionic Equilibrium (Lecture 17),2025-04-30,,1
-task,Chemistry: Coordination Compounds (Lecture 1),2025-04-30,,1
-task,Chemistry: Coordination Compounds (Lecture 2),2025-04-30,,1
-task,Chemistry: Coordination Compounds (Lecture 3),2025-04-30,,1
-task,Chemistry: Coordination Compounds (Lecture 4),2025-04-30,,1
-section,Day 23,2025-05-01,,
-task,Mathematics: Solution of Triangles (Lecture 1),2025-05-01,,1
-task,Mathematics: Solution of Triangles (Lecture 2),2025-05-01,,1
-task,Mathematics: Solution of Triangles (Lecture 3),2025-05-01,,1
-task,Mathematics: Solution of Triangles (Lecture 4),2025-05-01,,1
-task,Chemistry: Coordination Compounds (Lecture 5),2025-05-01,,1
-task,Chemistry: Coordination Compounds (Lecture 6),2025-05-01,,1
-task,Chemistry: Coordination Compounds (Lecture 7),2025-05-01,,1
-task,Chemistry: Coordination Compounds (Lecture 8),2025-05-01,,1
-task,Chemistry: Coordination Compounds (Lecture 9),2025-05-01,,1
-task,Chemistry: Coordination Compounds (Lecture 10),2025-05-01,,1
-section,Day 24,2025-05-02,,
-task,Chemistry: Coordination Compounds (Lecture 11),2025-05-02,,1
-task,Chemistry: Coordination Compounds (Lecture 12),2025-05-02,,1
-task,Chemistry: Coordination Compounds (Lecture 13),2025-05-02,,1
-task,Chemistry: Coordination Compounds (Lecture 14),2025-05-02,,1
-task,Chemistry: Coordination Compounds (Lecture 15),2025-05-02,,1
-task,Chemistry: Thermodynamics (Lecture 5),2025-05-02,,1
-task,Chemistry: Thermodynamics (Lecture 6),2025-05-02,,1
-task,Chemistry: Thermodynamics (Lecture 7),2025-05-02,,1
-task,Chemistry: Thermodynamics (Lecture 8),2025-05-02,,1
-task,Chemistry: Thermodynamics (Lecture 9),2025-05-02,,1
-section,Day 25,2025-05-03,,
-task,Chemistry: Coordination Compounds (Lecture 16),2025-05-03,,1
-task,Chemistry: Coordination Compounds (Lecture 17),2025-05-03,,1
-task,Chemistry: Coordination Compounds (Lecture 18),2025-05-03,,1
-task,Chemistry: Coordination Compounds (Lecture 19),2025-05-03,,1
-task,Chemistry: Thermodynamics (Lecture 10),2025-05-03,,1
-task,Chemistry: Thermodynamics (Lecture 11),2025-05-03,,1
-task,Chemistry: Thermodynamics (Lecture 12),2025-05-03,,1
-task,Chemistry: Thermodynamics (Lecture 13),2025-05-03,,1
-task,Chemistry: Thermodynamics (Lecture 14),2025-05-03,,1
-task,Chemistry: Thermodynamics (Lecture 15),2025-05-03,,1
-section,Day 26,2025-05-04,,
-task,Chemistry: Thermodynamics (Lecture 16),2025-05-04,,1
-task,Chemistry: Redox Reactions (Lecture 1),2025-05-04,,1
-task,Chemistry: Redox Reactions (Lecture 2),2025-05-04,,1
-task,Chemistry: Redox Reactions (Lecture 3),2025-05-04,,1
-task,Chemistry: Redox Reactions (Lecture 4),2025-05-04,,1
-task,Chemistry: Isomerism (Lecture 1),2025-05-04,,1
-task,Chemistry: Isomerism (Lecture 2),2025-05-04,,1
-task,Chemistry: Isomerism (Lecture 3),2025-05-04,,1
-task,Chemistry: Isomerism (Lecture 4),2025-05-04,,1
-task,Chemistry: Isomerism (Lecture 5),2025-05-04,,1
-section,Day 27,2025-05-05,,
-task,Chemistry: Redox Reactions (Lecture 5),2025-05-05,,1
-task,Chemistry: Redox Reactions (Lecture 6),2025-05-05,,1
-task,Chemistry: Redox Reactions (Lecture 7),2025-05-05,,1
-task,Chemistry: Redox Reactions (Lecture 8),2025-05-05,,1
-task,Chemistry: Isomerism (Lecture 6),2025-05-05,,1
-task,Chemistry: Isomerism (Lecture 7),2025-05-05,,1
-task,Chemistry: Isomerism (Lecture 8),2025-05-05,,1
-task,Chemistry: Isomerism (Lecture 9),2025-05-05,,1
-task,Chemistry: Block Chemistry (Lecture 1),2025-05-05,,1
-task,Chemistry: Block Chemistry (Lecture 2),2025-05-05,,1
-section,Day 28,2025-05-06,,
-task,Chemistry: Isomerism (Lecture 10),2025-05-06,,1
-task,Chemistry: Isomerism (Lecture 11),2025-05-06,,1
-task,Chemistry: Isomerism (Lecture 12),2025-05-06,,1
-task,Chemistry: Isomerism (Lecture 13),2025-05-06,,1
-task,Chemistry: Block Chemistry (Lecture 3),2025-05-06,,1
-task,Chemistry: Block Chemistry (Lecture 4),2025-05-06,,1
-task,Chemistry: Block Chemistry (Lecture 5),2025-05-06,,1
-task,Chemistry: Block Chemistry (Lecture 6),2025-05-06,,1
-task,Chemistry: Solid State (Lecture 1),2025-05-06,,1
-task,Chemistry: Solid State (Lecture 2),2025-05-06,,1
-section,Day 29,2025-05-07,,
-task,Chemistry: Block Chemistry (Lecture 7),2025-05-07,,1
-task,Chemistry: Block Chemistry (Lecture 8),2025-05-07,,1
-task,Chemistry: Block Chemistry (Lecture 9),2025-05-07,,1
-task,Chemistry: Solid State (Lecture 3),2025-05-07,,1
-task,Chemistry: Solid State (Lecture 4),2025-05-07,,1
-task,Chemistry: Solid State (Lecture 5),2025-05-07,,1
-task,Chemistry: Salt Analysis (Lecture 1),2025-05-07,,1
-task,Chemistry: Salt Analysis (Lecture 2),2025-05-07,,1
-task,Chemistry: Salt Analysis (Lecture 3),2025-05-07,,1
-task,Chemistry: Salt Analysis (Lecture 4),2025-05-07,,1
-section,Day 30,2025-05-08,,
-task,Chemistry: Salt Analysis (Lecture 5),2025-05-08,,1
-task,Chemistry: Salt Analysis (Lecture 6),2025-05-08,,1
-task,Chemistry: Salt Analysis (Lecture 7),2025-05-08,,1
-task,Chemistry: Salt Analysis (Lecture 8),2025-05-08,,1
-task,Chemistry: Salt Analysis (Lecture 9),2025-05-08,,1
-task,Chemistry: Metallurgy (Lecture 1),2025-05-08,,1
-task,Chemistry: Metallurgy (Lecture 2),2025-05-08,,1
-task,Chemistry: Metallurgy (Lecture 3),2025-05-08,,1
-task,Chemistry: Metallurgy (Lecture 4),2025-05-08,,1
-task,Chemistry: Metallurgy (Lecture 5),2025-05-08,,1
+TYPE;CONTENT;DESCRIPTION;PRIORITY;INDENT;AUTHOR;RESPONSIBLE;DATE;DATE_LANG;TIMEZONE;DURATION;DURATION_UNIT;DEADLINE;DEADLINE_LANG
+meta;view_style=list;;;;;;;;;;;;
+section;Day 1;;;;;;;2025-04-09;en;;;;
+task;Mathematics: Complex Numbers (Lecture 1);;4;1;;;2025-04-09;en;;96;minute;;
+task;Mathematics: Complex Numbers (Lecture 2);;4;1;;;2025-04-09;en;;96;minute;;
+task;Mathematics: Complex Numbers (Lecture 3);;4;1;;;2025-04-09;en;;96;minute;;
+task;Physics: Ray Optics (Lecture 1);;4;1;;;2025-04-09;en;;96;minute;;
+task;Physics: Ray Optics (Lecture 2);;4;1;;;2025-04-09;en;;96;minute;;
+task;Physics: Ray Optics (Lecture 3);;4;1;;;2025-04-09;en;;96;minute;;
+task;Chemistry: Thermodynamics (Lecture 1);;4;1;;;2025-04-09;en;;96;minute;;
+task;Chemistry: Thermodynamics (Lecture 2);;4;1;;;2025-04-09;en;;96;minute;;
+task;Chemistry: Thermodynamics (Lecture 3);;4;1;;;2025-04-09;en;;96;minute;;
+task;Chemistry: Thermodynamics (Lecture 4);;4;1;;;2025-04-09;en;;96;minute;;
+section;Day 2;;;;;;;2025-04-10;en;;;;
+task;Mathematics: Complex Numbers (Lecture 4);;4;1;;;2025-04-10;en;;96;minute;;
+task;Mathematics: Complex Numbers (Lecture 5);;4;1;;;2025-04-10;en;;96;minute;;
+task;Mathematics: Complex Numbers (Lecture 6);;4;1;;;2025-04-10;en;;96;minute;;
+task;Physics: Ray Optics (Lecture 4);;4;1;;;2025-04-10;en;;96;minute;;
+task;Physics: Ray Optics (Lecture 5);;4;1;;;2025-04-10;en;;96;minute;;
+task;Physics: Ray Optics (Lecture 6);;4;1;;;2025-04-10;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 1);;4;1;;;2025-04-10;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 2);;4;1;;;2025-04-10;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 3);;4;1;;;2025-04-10;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 4);;4;1;;;2025-04-10;en;;96;minute;;
+section;Day 3;;;;;;;2025-04-11;en;;;;
+task;Mathematics: Complex Numbers (Lecture 7);;4;1;;;2025-04-11;en;;96;minute;;
+task;Mathematics: Complex Numbers (Lecture 8);;4;1;;;2025-04-11;en;;96;minute;;
+task;Mathematics: Complex Numbers (Lecture 9);;4;1;;;2025-04-11;en;;96;minute;;
+task;Physics: Ray Optics (Lecture 7);;4;1;;;2025-04-11;en;;96;minute;;
+task;Physics: Ray Optics (Lecture 8);;4;1;;;2025-04-11;en;;96;minute;;
+task;Physics: Ray Optics (Lecture 9);;4;1;;;2025-04-11;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 5);;4;1;;;2025-04-11;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 6);;4;1;;;2025-04-11;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 7);;4;1;;;2025-04-11;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 8);;4;1;;;2025-04-11;en;;96;minute;;
+section;Day 4;;;;;;;2025-04-12;en;;;;
+task;Mathematics: Complex Numbers (Lecture 10);;4;1;;;2025-04-12;en;;96;minute;;
+task;Mathematics: Complex Numbers (Lecture 11);;4;1;;;2025-04-12;en;;96;minute;;
+task;Mathematics: Complex Numbers (Lecture 12);;4;1;;;2025-04-12;en;;96;minute;;
+task;Mathematics: Complex Numbers (Lecture 13);;4;1;;;2025-04-12;en;;96;minute;;
+task;Physics: Ray Optics (Lecture 10);;4;1;;;2025-04-12;en;;96;minute;;
+task;Physics: Ray Optics (Lecture 11);;4;1;;;2025-04-12;en;;96;minute;;
+task;Physics: Ray Optics (Lecture 12);;4;1;;;2025-04-12;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 9);;4;1;;;2025-04-12;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 10);;4;1;;;2025-04-12;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 11);;4;1;;;2025-04-12;en;;96;minute;;
+section;Day 5;;;;;;;2025-04-13;en;;;;
+task;Mathematics: Probability (Lecture 1);;4;1;;;2025-04-13;en;;96;minute;;
+task;Mathematics: Probability (Lecture 2);;4;1;;;2025-04-13;en;;96;minute;;
+task;Mathematics: Probability (Lecture 3);;4;1;;;2025-04-13;en;;96;minute;;
+task;Physics: Ray Optics (Lecture 13);;4;1;;;2025-04-13;en;;96;minute;;
+task;Physics: Ray Optics (Lecture 14);;4;1;;;2025-04-13;en;;96;minute;;
+task;Physics: Ray Optics (Lecture 15);;4;1;;;2025-04-13;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 12);;4;1;;;2025-04-13;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 13);;4;1;;;2025-04-13;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 14);;4;1;;;2025-04-13;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 15);;4;1;;;2025-04-13;en;;96;minute;;
+section;Day 6;;;;;;;2025-04-14;en;;;;
+task;Mathematics: Probability (Lecture 4);;4;1;;;2025-04-14;en;;96;minute;;
+task;Mathematics: Probability (Lecture 5);;4;1;;;2025-04-14;en;;96;minute;;
+task;Mathematics: Probability (Lecture 6);;4;1;;;2025-04-14;en;;96;minute;;
+task;Physics: Fluids (Lecture 1);;4;1;;;2025-04-14;en;;96;minute;;
+task;Physics: Fluids (Lecture 2);;4;1;;;2025-04-14;en;;96;minute;;
+task;Physics: Fluids (Lecture 3);;4;1;;;2025-04-14;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 16);;4;1;;;2025-04-14;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 17);;4;1;;;2025-04-14;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 18);;4;1;;;2025-04-14;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 19);;4;1;;;2025-04-14;en;;96;minute;;
+section;Day 7;;;;;;;2025-04-15;en;;;;
+task;Mathematics: Probability (Lecture 7);;4;1;;;2025-04-15;en;;96;minute;;
+task;Mathematics: Probability (Lecture 8);;4;1;;;2025-04-15;en;;96;minute;;
+task;Mathematics: Probability (Lecture 9);;4;1;;;2025-04-15;en;;96;minute;;
+task;Mathematics: Probability (Lecture 10);;4;1;;;2025-04-15;en;;96;minute;;
+task;Physics: Fluids (Lecture 4);;4;1;;;2025-04-15;en;;96;minute;;
+task;Physics: Fluids (Lecture 5);;4;1;;;2025-04-15;en;;96;minute;;
+task;Physics: Fluids (Lecture 6);;4;1;;;2025-04-15;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 20);;4;1;;;2025-04-15;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 21);;4;1;;;2025-04-15;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 22);;4;1;;;2025-04-15;en;;96;minute;;
+section;Day 8;;;;;;;2025-04-16;en;;;;
+task;Mathematics: Conic Sections (Lecture 1);;4;1;;;2025-04-16;en;;96;minute;;
+task;Mathematics: Conic Sections (Lecture 2);;4;1;;;2025-04-16;en;;96;minute;;
+task;Mathematics: Conic Sections (Lecture 3);;4;1;;;2025-04-16;en;;96;minute;;
+task;Physics: Fluids (Lecture 7);;4;1;;;2025-04-16;en;;96;minute;;
+task;Physics: Fluids (Lecture 8);;4;1;;;2025-04-16;en;;96;minute;;
+task;Physics: Fluids (Lecture 9);;4;1;;;2025-04-16;en;;96;minute;;
+task;Physics: Fluids (Lecture 10);;4;1;;;2025-04-16;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 23);;4;1;;;2025-04-16;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 24);;4;1;;;2025-04-16;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 25);;4;1;;;2025-04-16;en;;96;minute;;
+section;Day 9;;;;;;;2025-04-17;en;;;;
+task;Mathematics: Conic Sections (Lecture 4);;4;1;;;2025-04-17;en;;96;minute;;
+task;Mathematics: Conic Sections (Lecture 5);;4;1;;;2025-04-17;en;;96;minute;;
+task;Mathematics: Conic Sections (Lecture 6);;4;1;;;2025-04-17;en;;96;minute;;
+task;Physics: Modern Physics (Lecture 1);;4;1;;;2025-04-17;en;;96;minute;;
+task;Physics: Modern Physics (Lecture 2);;4;1;;;2025-04-17;en;;96;minute;;
+task;Physics: Modern Physics (Lecture 3);;4;1;;;2025-04-17;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 26);;4;1;;;2025-04-17;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 27);;4;1;;;2025-04-17;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 28);;4;1;;;2025-04-17;en;;96;minute;;
+task;Chemistry: Chemical Bonding (Lecture 29);;4;1;;;2025-04-17;en;;96;minute;;
+section;Day 10;;;;;;;2025-04-18;en;;;;
+task;Mathematics: Conic Sections (Lecture 7);;4;1;;;2025-04-18;en;;96;minute;;
+task;Mathematics: Conic Sections (Lecture 8);;4;1;;;2025-04-18;en;;96;minute;;
+task;Mathematics: Conic Sections (Lecture 9);;4;1;;;2025-04-18;en;;96;minute;;
+task;Physics: Modern Physics (Lecture 4);;4;1;;;2025-04-18;en;;96;minute;;
+task;Physics: Modern Physics (Lecture 5);;4;1;;;2025-04-18;en;;96;minute;;
+task;Physics: Modern Physics (Lecture 6);;4;1;;;2025-04-18;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 1);;4;1;;;2025-04-18;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 2);;4;1;;;2025-04-18;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 3);;4;1;;;2025-04-18;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 4);;4;1;;;2025-04-18;en;;96;minute;;
+section;Day 11;;;;;;;2025-04-19;en;;;;
+task;Mathematics: Conic Sections (Lecture 10);;4;1;;;2025-04-19;en;;96;minute;;
+task;Mathematics: Conic Sections (Lecture 11);;4;1;;;2025-04-19;en;;96;minute;;
+task;Mathematics: Conic Sections (Lecture 12);;4;1;;;2025-04-19;en;;96;minute;;
+task;Physics: Modern Physics (Lecture 7);;4;1;;;2025-04-19;en;;96;minute;;
+task;Physics: Modern Physics (Lecture 8);;4;1;;;2025-04-19;en;;96;minute;;
+task;Physics: Modern Physics (Lecture 9);;4;1;;;2025-04-19;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 5);;4;1;;;2025-04-19;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 6);;4;1;;;2025-04-19;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 7);;4;1;;;2025-04-19;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 8);;4;1;;;2025-04-19;en;;96;minute;;
+section;Day 12;;;;;;;2025-04-20;en;;;;
+task;Mathematics: Conic Sections (Lecture 13);;4;1;;;2025-04-20;en;;96;minute;;
+task;Mathematics: Conic Sections (Lecture 14);;4;1;;;2025-04-20;en;;96;minute;;
+task;Mathematics: Conic Sections (Lecture 15);;4;1;;;2025-04-20;en;;96;minute;;
+task;Physics: Modern Physics (Lecture 10);;4;1;;;2025-04-20;en;;96;minute;;
+task;Physics: Modern Physics (Lecture 11);;4;1;;;2025-04-20;en;;96;minute;;
+task;Physics: Modern Physics (Lecture 12);;4;1;;;2025-04-20;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 9);;4;1;;;2025-04-20;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 10);;4;1;;;2025-04-20;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 11);;4;1;;;2025-04-20;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 12);;4;1;;;2025-04-20;en;;96;minute;;
+section;Day 13;;;;;;;2025-04-21;en;;;;
+task;Mathematics: Conic Sections (Lecture 16);;4;1;;;2025-04-21;en;;96;minute;;
+task;Mathematics: Conic Sections (Lecture 17);;4;1;;;2025-04-21;en;;96;minute;;
+task;Mathematics: Conic Sections (Lecture 18);;4;1;;;2025-04-21;en;;96;minute;;
+task;Physics: Wave Optics (Lecture 1);;4;1;;;2025-04-21;en;;96;minute;;
+task;Physics: Wave Optics (Lecture 2);;4;1;;;2025-04-21;en;;96;minute;;
+task;Physics: Wave Optics (Lecture 3);;4;1;;;2025-04-21;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 13);;4;1;;;2025-04-21;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 14);;4;1;;;2025-04-21;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 15);;4;1;;;2025-04-21;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 16);;4;1;;;2025-04-21;en;;96;minute;;
+section;Day 14;;;;;;;2025-04-22;en;;;;
+task;Mathematics: Conic Sections (Lecture 19);;4;1;;;2025-04-22;en;;96;minute;;
+task;Mathematics: Conic Sections (Lecture 20);;4;1;;;2025-04-22;en;;96;minute;;
+task;Mathematics: Conic Sections (Lecture 21);;4;1;;;2025-04-22;en;;96;minute;;
+task;Physics: Wave Optics (Lecture 4);;4;1;;;2025-04-22;en;;96;minute;;
+task;Physics: Wave Optics (Lecture 5);;4;1;;;2025-04-22;en;;96;minute;;
+task;Physics: Wave Optics (Lecture 6);;4;1;;;2025-04-22;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 17);;4;1;;;2025-04-22;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 18);;4;1;;;2025-04-22;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 19);;4;1;;;2025-04-22;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 20);;4;1;;;2025-04-22;en;;96;minute;;
+section;Day 15;;;;;;;2025-04-23;en;;;;
+task;Mathematics: Conic Sections (Lecture 22);;4;1;;;2025-04-23;en;;96;minute;;
+task;Mathematics: Conic Sections (Lecture 23);;4;1;;;2025-04-23;en;;96;minute;;
+task;Mathematics: Conic Sections (Lecture 24);;4;1;;;2025-04-23;en;;96;minute;;
+task;Physics: Wave Optics (Lecture 7);;4;1;;;2025-04-23;en;;96;minute;;
+task;Physics: Wave Optics (Lecture 8);;4;1;;;2025-04-23;en;;96;minute;;
+task;Physics: Wave Optics (Lecture 9);;4;1;;;2025-04-23;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 21);;4;1;;;2025-04-23;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 22);;4;1;;;2025-04-23;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 23);;4;1;;;2025-04-23;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 24);;4;1;;;2025-04-23;en;;96;minute;;
+section;Day 16;;;;;;;2025-04-24;en;;;;
+task;Mathematics: Conic Sections (Lecture 25);;4;1;;;2025-04-24;en;;96;minute;;
+task;Mathematics: Conic Sections (Lecture 26);;4;1;;;2025-04-24;en;;96;minute;;
+task;Mathematics: Statistics (Lecture 1);;4;1;;;2025-04-24;en;;96;minute;;
+task;Physics: Waves and Sound (Lecture 1);;4;1;;;2025-04-24;en;;96;minute;;
+task;Physics: Waves and Sound (Lecture 2);;4;1;;;2025-04-24;en;;96;minute;;
+task;Physics: Waves and Sound (Lecture 3);;4;1;;;2025-04-24;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 25);;4;1;;;2025-04-24;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 26);;4;1;;;2025-04-24;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 27);;4;1;;;2025-04-24;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 28);;4;1;;;2025-04-24;en;;96;minute;;
+section;Day 17;;;;;;;2025-04-25;en;;;;
+task;Mathematics: Statistics (Lecture 2);;4;1;;;2025-04-25;en;;96;minute;;
+task;Mathematics: Statistics (Lecture 3);;4;1;;;2025-04-25;en;;96;minute;;
+task;Mathematics: Integration (Lecture 1);;4;1;;;2025-04-25;en;;96;minute;;
+task;Physics: Waves and Sound (Lecture 4);;4;1;;;2025-04-25;en;;96;minute;;
+task;Physics: Waves and Sound (Lecture 5);;4;1;;;2025-04-25;en;;96;minute;;
+task;Physics: Waves and Sound (Lecture 6);;4;1;;;2025-04-25;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 29);;4;1;;;2025-04-25;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 30);;4;1;;;2025-04-25;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 31);;4;1;;;2025-04-25;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 32);;4;1;;;2025-04-25;en;;96;minute;;
+section;Day 18;;;;;;;2025-04-26;en;;;;
+task;Mathematics: Integration (Lecture 2);;4;1;;;2025-04-26;en;;96;minute;;
+task;Mathematics: Integration (Lecture 3);;4;1;;;2025-04-26;en;;96;minute;;
+task;Mathematics: Integration (Lecture 4);;4;1;;;2025-04-26;en;;96;minute;;
+task;Physics: Waves and Sound (Lecture 7);;4;1;;;2025-04-26;en;;96;minute;;
+task;Physics: Waves and Sound (Lecture 8);;4;1;;;2025-04-26;en;;96;minute;;
+task;Physics: Waves and Sound (Lecture 9);;4;1;;;2025-04-26;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 33);;4;1;;;2025-04-26;en;;96;minute;;
+task;Chemistry: Reaction Mechanisms (Lecture 34);;4;1;;;2025-04-26;en;;96;minute;;
+task;Chemistry: Ionic Equilibrium (Lecture 1);;4;1;;;2025-04-26;en;;96;minute;;
+task;Chemistry: Ionic Equilibrium (Lecture 2);;4;1;;;2025-04-26;en;;96;minute;;
+section;Day 19;;;;;;;2025-04-27;en;;;;
+task;Mathematics: Integration (Lecture 5);;4;1;;;2025-04-27;en;;96;minute;;
+task;Mathematics: Integration (Lecture 6);;4;1;;;2025-04-27;en;;96;minute;;
+task;Mathematics: Integration (Lecture 7);;4;1;;;2025-04-27;en;;96;minute;;
+task;Physics: Thermal Properties of Matter (Lecture 1);;4;1;;;2025-04-27;en;;96;minute;;
+task;Physics: Thermal Properties of Matter (Lecture 2);;4;1;;;2025-04-27;en;;96;minute;;
+task;Physics: Thermal Properties of Matter (Lecture 3);;4;1;;;2025-04-27;en;;96;minute;;
+task;Chemistry: Ionic Equilibrium (Lecture 3);;4;1;;;2025-04-27;en;;96;minute;;
+task;Chemistry: Ionic Equilibrium (Lecture 4);;4;1;;;202                 5-04-27;en;;96;minute;;
+task;Chemistry: Ionic Equilibrium (Lecture 5);;4;1;;;2025-04-27;en;;96;minute;;
+task;Chemistry: Ionic Equilibrium (Lecture 6);;4;1;;;2025-04-27;en;;96;minute;;
+section;Day 20;;;;;;;2025-04-28;en;;;;
+task;Mathematics: Integration (Lecture 8);;4;1;;;2025-04-28;en;;96;minute;;
+task;Mathematics: Integration (Lecture 9);;4;1;;;2025-04-28;en;;96;minute;;
+task;Mathematics: Integration (Lecture 10);;4;1;;;2025-04-28;en;;96;minute;;
+task;Physics: Thermal Properties of Matter (Lecture 4);;4;1;;;2025-04-28;en;;96;minute;;
+task;Physics: Thermal Properties of Matter (Lecture 5);;4;1;;;2025-04-28;en;;96;minute;;
+task;Physics: Thermal Properties of Matter (Lecture 6);;4;1;;;2025-04-28;en;;96;minute;;
+task;Chemistry: Ionic Equilibrium (Lecture 7);;4;1;;;2025-04-28;en;;96;minute;;
+task;Chemistry: Ionic Equilibrium (Lecture 8);;4;1;;;2025-04-28;en;;96;minute;;
+task;Chemistry: Ionic Equilibrium (Lecture 9);;4;1;;;2025-04-28;en;;96;minute;;
+task;Chemistry: Ionic Equilibrium (Lecture 10);;4;1;;;2025-04-28;en;;96;minute;;
+section;Day 21;;;;;;;2025-04-29;en;;;;
+task;Mathematics: Integration (Lecture 11);;4;1;;;2025-04-29;en;;96;minute;;
+task;Mathematics: Integration (Lecture 12);;4;1;;;2025-04-29;en;;96;minute;;
+task;Mathematics: Integration (Lecture 13);;4;1;;;2025-04-29;en;;96;minute;;
+task;Physics: Thermal Properties of Matter (Lecture 7);;4;1;;;2025-04-29;en;;96;minute;;
+task;Physics: Thermal Properties of Matter (Lecture 8);;4;1;;;2025-04-29;en;;96;minute;;
+task;Physics: Thermal Properties of Matter (Lecture 9);;4;1;;;2025-04-29;en;;96;minute;;
+task;Chemistry: Ionic Equilibrium (Lecture 11);;4;1;;;2025-04-29;en;;96;minute;;
+task;Chemistry: Ionic Equilibrium (Lecture 12);;4;1;;;2025-04-29;en;;96;minute;;
+task;Chemistry: Ionic Equilibrium (Lecture 13);;4;1;;;2025-04-29;en;;96;minute;;
+task;Chemistry: Ionic Equilibrium (Lecture 14);;4;1;;;2025-04-29;en;;96;minute;;
+section;Day 22;;;;;;;2025-04-30;en;;;;
+task;Mathematics: Integration (Lecture 14);;4;1;;;2025-04-30;en;;96;minute;;
+task;Mathematics: Integration (Lecture 15);;4;1;;;2025-04-30;en;;96;minute;;
+task;Mathematics: Integration (Lecture 16);;4;1;;;2025-04-30;en;;96;minute;;
+task;Chemistry: Ionic Equilibrium (Lecture 15);;4;1;;;2025-04-30;en;;96;minute;;
+task;Chemistry: Ionic Equilibrium (Lecture 16);;4;1;;;2025-04-30;en;;96;minute;;
+task;Chemistry: Ionic Equilibrium (Lecture 17);;4;1;;;2025-04-30;en;;96;minute;;
+task;Chemistry: Coordination Compounds (Lecture 1);;4;1;;;2025-04-30;en;;96;minute;;
+task;Chemistry: Coordination Compounds (Lecture 2);;4;1;;;2025-04-30;en;;96;minute;;
+task;Chemistry: Coordination Compounds (Lecture 3);;4;1;;;2025-04-30;en;;96;minute;;
+task;Chemistry: Coordination Compounds (Lecture 4);;4;1;;;2025-04-30;en;;96;minute;;
+section;Day 23;;;;;;;2025-05-01;en;;;;
+task;Mathematics: Solution of Triangles (Lecture 1);;4;1;;;2025-05-01;en;;96;minute;;
+task;Mathematics: Solution of Triangles (Lecture 2);;4;1;;;2025-05-01;en;;96;minute;;
+task;Mathematics: Solution of Triangles (Lecture 3);;4;1;;;2025-05-01;en;;96;minute;;
+task;Mathematics: Solution of Triangles (Lecture 4);;4;1;;;2025-05-01;en;;96;minute;;
+task;Chemistry: Coordination Compounds (Lecture 5);;4;1;;;2025-05-01;en;;96;minute;;
+task;Chemistry: Coordination Compounds (Lecture 6);;4;1;;;2025-05-01;en;;96;minute;;
+task;Chemistry: Coordination Compounds (Lecture 7);;4;1;;;2025-05-01;en;;96;minute;;
+task;Chemistry: Coordination Compounds (Lecture 8);;4;1;;;2025-05-01;en;;96;minute;;
+task;Chemistry: Coordination Compounds (Lecture 9);;4;1;;;2025-05-01;en;;96;minute;;
+task;Chemistry: Coordination Compounds (Lecture 10);;4;1;;;2025-05-01;en;;96;minute;;
+section;Day 24;;;;;;;2025-05-02;en;;;;
+task;Chemistry: Coordination Compounds (Lecture 11);;4;1;;;2025-05-02;en;;96;minute;;
+task;Chemistry: Coordination Compounds (Lecture 12);;4;1;;;2025-05-02;en;;96;minute;;
+task;Chemistry: Coordination Compounds (Lecture 13);;4;1;;;2025-05-02;en;;96;minute;;
+task;Chemistry: Coordination Compounds (Lecture 14);;4;1;;;2025-05-02;en;;96;minute;;
+task;Chemistry: Coordination Compounds (Lecture 15);;4;1;;;2025-05-02;en;;96;minute;;
+task;Chemistry: Thermodynamics (Lecture 5);;4;1;;;2025-05-02;en;;96;minute;;
+task;Chemistry: Thermodynamics (Lecture 6);;4;1;;;2025-05-02;en;;96;minute;;
+task;Chemistry: Thermodynamics (Lecture 7);;4;1;;;2025-05-02;en;;96;minute;;
+task;Chemistry: Thermodynamics (Lecture 8);;4;1;;;2025-05-02;en;;96;minute;;
+task;Chemistry: Thermodynamics (Lecture 9);;4;1;;;2025-05-02;en;;96;minute;;
+section;Day 25;;;;;;;2025-05-03;en;;;;
+task;Chemistry: Coordination Compounds (Lecture 16);;4;1;;;2025-05-03;en;;96;minute;;
+task;Chemistry: Coordination Compounds (Lecture 17);;4;1;;;2025-05-03;en;;96;minute;;
+task;Chemistry: Coordination Compounds (Lecture 18);;4;1;;;2025-05-03;en;;96;minute;;
+task;Chemistry: Coordination Compounds (Lecture 19);;4;1;;;2025-05-03;en;;96;minute;;
+task;Chemistry: Thermodynamics (Lecture 10);;4;1;;;2025-05-03;en;;96;minute;;
+task;Chemistry: Thermodynamics (Lecture 11);;4;1;;;2025-05-03;en;;96;minute;;
+task;Chemistry: Thermodynamics (Lecture 12);;4;1;;;2025-05-03;en;;96;minute;;
+task;Chemistry: Thermodynamics (Lecture 13);;4;1;;;2025-05-03;en;;96;minute;;
+task;Chemistry: Thermodynamics (Lecture 14);;4;1;;;2025-05-03;en;;96;minute;;
+task;Chemistry: Thermodynamics (Lecture 15);;4;1;;;2025-05-03;en;;96;minute;;
+section;Day 26;;;;;;;2025-05-04;en;;;;
+task;Chemistry: Thermodynamics (Lecture 16);;4;1;;;2025-05-04;en;;96;minute;;
+task;Chemistry: Redox Reactions (Lecture 1);;4;1;;;2025-05-04;en;;96;minute;;
+task;Chemistry: Redox Reactions (Lecture 2);;4;1;;;2025-05-04;en;;96;minute;;
+task;Chemistry: Redox Reactions (Lecture 3);;4;1;;;2025-05-04;en;;96;minute;;
+task;Chemistry: Redox Reactions (Lecture 4);;4;1;;;2025-05-04;en;;96;minute;;
+task;Chemistry: Isomerism (Lecture 1);;4;1;;;2025-05-04;en;;96;minute;;
+task;Chemistry: Isomerism (Lecture 2);;4;1;;;2025-05-04;en;;96;minute;;
+task;Chemistry: Isomerism (Lecture 3);;4;1;;;2025-05-04;en;;96;minute;;
+task;Chemistry: Isomerism (Lecture 4);;4;1;;;2025-05-04;en;;96;minute;;
+task;Chemistry: Isomerism (Lecture 5);;4;1;;;2025-05-04;en;;96;minute;;
+section;Day 27;;;;;;;2025-05-05;en;;;;
+task;Chemistry: Redox Reactions (Lecture 5);;4;1;;;2025-05-05;en;;96;minute;;
+task;Chemistry: Redox Reactions (Lecture 6);;4;1;;;2025-05-05;en;;96;minute;;
+task;Chemistry: Redox Reactions (Lecture 7);;4;1;;;2025-05-05;en;;96;minute;;
+task;Chemistry: Redox Reactions (Lecture 8);;4;1;;;2025-05-05;en;;96;minute;;
+task;Chemistry: Isomerism (Lecture 6);;4;1;;;2025-05-05;en;;96;minute;;
+task;Chemistry: Isomerism (Lecture 7);;4;1;;;2025-05-05;en;;96;minute;;
+task;Chemistry: Isomerism (Lecture 8);;4;1;;;2025-05-05;en;;96;minute;;
+task;Chemistry: Isomerism (Lecture 9);;4;1;;;2025-05-05;en;;96;minute;;
+task;Chemistry: Block Chemistry (Lecture 1);;4;1;;;2025-05-05;en;;96;minute;;
+task;Chemistry: Block Chemistry (Lecture 2);;4;1;;;2025-05-05;en;;96;minute;;
+section;Day 28;;;;;;;2025-05-06;en;;;;
+task;Chemistry: Isomerism (Lecture 10);;4;1;;;2025-05-06;en;;96;minute;;
+task;Chemistry: Isomerism (Lecture 11);;4;1;;;2025-05-06;en;;96;minute;;
+task;Chemistry: Isomerism (Lecture 12);;4;1;;;2025-05-06;en;;96;minute;;
+task;Chemistry: Isomerism (Lecture 13);;4;1;;;2025-05-06;en;;96;minute;;
+task;Chemistry: Block Chemistry (Lecture 3);;4;1;;;2025-05-06;en;;96;minute;;
+task;Chemistry: Block Chemistry (Lecture 4);;4;1;;;2025-05-06;en;;96;minute;;
+task;Chemistry: Block Chemistry (Lecture 5);;4;1;;;2025-05-06;en;;96;minute;;
+task;Chemistry: Block Chemistry (Lecture 6);;4;1;;;2025-05-06;en;;96;minute;;
+task;Chemistry: Solid State (Lecture 1);;4;1;;;2025-05-06;en;;96;minute;;
+task;Chemistry: Solid State (Lecture 2);;4;1;;;2025-05-06;en;;96;minute;;
+section;Day 29;;;;;;;2025-05-07;en;;;;
+task;Chemistry: Block Chemistry (Lecture 7);;4;1;;;2025-05-07;en;;96;minute;;
+task;Chemistry: Block Chemistry (Lecture 8);;4;1;;;2025-05-07;en;;96;minute;;
+task;Chemistry: Block Chemistry (Lecture 9);;4;1;;;2025-05-07;en;;96;minute;;
+task;Chemistry: Solid State (Lecture 3);;4;1;;;2025-05-07;en;;96;minute;;
+task;Chemistry: Solid State (Lecture 4);;4;1;;;2025-05-07;en;;96;minute;;
+task;Chemistry: Solid State (Lecture 5);;4;1;;;2025-05-07;en;;96;minute;;
+task;Chemistry: Salt Analysis (Lecture 1);;4;1;;;2025-05-07;en;;96;minute;;
+task;Chemistry: Salt Analysis (Lecture 2);;4;1;;;2025-05-07;en;;96;minute;;
+task;Chemistry: Salt Analysis (Lecture 3);;4;1;;;2025-05-07;en;;96;minute;;
+task;Chemistry: Salt Analysis (Lecture 4);;4;1;;;2025-05-07;en;;96;minute;;
+section;Day 30;;;;;;;2025-05-08;en;;;;
+task;Chemistry: Salt Analysis (Lecture 5);;4;1;;;2025-05-08;en;;96;minute;;
+task;Chemistry: Salt Analysis (Lecture 6);;4;1;;;2025-05-08;en;;96;minute;;
+task;Chemistry: Salt Analysis (Lecture 7);;4;1;;;2025-05-08;en;;96;minute;;
+task;Chemistry: Salt Analysis (Lecture 8);;4;1;;;2025-05-08;en;;96;minute;;
+task;Chemistry: Salt Analysis (Lecture 9);;4;1;;;2025-05-08;en;;96;minute;;
+task;Chemistry: Metallurgy (Lecture 1);;4;1;;;2025-05-08;en;;96;minute;;
+task;Chemistry: Metallurgy (Lecture 2);;4;1;;;2025-05-08;en;;96;minute;;
+task;Chemistry: Metallurgy (Lecture 3);;4;1;;;2025-05-08;en;;96;minute;;
+task;Chemistry: Metallurgy (Lecture 4);;4;1;;;2025-05-08;en;;96;minute;;
+task;Chemistry: Metallurgy (Lecture 5);;4;1;;;2025-05-08;en;;96;minute;;
